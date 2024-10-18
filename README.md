@@ -4,7 +4,7 @@
 This project analyzes the First Destination Survey data collected from recent graduates. The goal is to uncover trends and insights related to graduates' immediate post-graduation paths, including employment, further education, and other activities.
 
 ## Data
-The dataset includes responses from graduates on various aspects such as:
+The dataset includes responses from graduates from the past 6 years on various aspects such as:
 - **Employment Status:** Employed, seeking employment, self-employed, etc.
 - **Job Sectors:** Industries and sectors where graduates are employed.
 - **Further Education:** Enrollment in graduate programs or other educational pursuits.
